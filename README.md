@@ -1,12 +1,12 @@
 ### Hi there 👋
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+Viz-Zer+Official+GitHub+AC;Follow+Me+Now)](https://git.io/typing-svg)
-<p align="left"> <a href="https://twitter.com/viz_zer_" target="blank"><img src="https://img.shields.io/twitter/follow/viz_zer_?logo=twitter&style=for-the-badge" alt="Viz Zer" /></a> </p>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+Resikesh+Official+GitHub+AC;Follow+Me+Now)](https://git.io/typing-svg)
+<p align="left"> <a href="https://twitter.com/ResikeshR" target="blank"><img src="https://img.shields.io/twitter/follow/ResikeshR?logo=twitter&style=for-the-badge" alt="Resikesh" /></a> </p>
 <h2 align="center"> ✨ About Me ✨</h2>
 
 ```js
 const Viz-Zer = {
     Original name : "Resikesh MR  ",
-     Nickname : Viz,
+     Nickname : Resi,
     Gender : Male,
     Relationship :Single,
      Mobile OS: Android 11 ,
@@ -34,5 +34,5 @@ const Viz-Zer = {
 </details>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Viz-Zer/count.svg" />
+  <img src="https://profile-counter.glitch.me/RESIKESH/count.svg" />
 </p>
