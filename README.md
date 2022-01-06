@@ -37,27 +37,26 @@ const Resikesh MR = {
     <img src="(https://github-readme-stats.vercel.app/api?username=RESIKESH&show_icons=true&theme=radical)">
   </p>
 </details>
-#### 🤔 Who Is Siddhant Khare ?
+#### 🤔 Who Is Resikesh MR  ?
 
-- 🏫 He is a Junior pursuing a Bachelor’s degree in Computer Science from the Global Engineering College, Jabalpur, India.
+- 🏫 He is a Junior pursuing a Bachelor’s degree in Computer Science from the University of Calicut,Kerala,India.
 - ⚡️ His expertise primarily revolves around JavaScript, React, MERN, Web Development, NestJS, Docker, AWS, and a little bit about Flutter & UI/UX Designs.
-- 🔭 He is currently working with Multiple Open Source Projects ( [MetaCall](https://github.com/metacall), [moja-global](https://github.com/moja-global), [Go Students](https://github.com/gostudent) & [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation) ) & worked with these Startups in past ( [hikaya-io](https://github.com/hikaya-io) & [TechVault](https://github.com/TechDiscussion) ).
+- 🔭 He is currently working with Multiple Open Source Projects
 - ♥️ He is an open-source lover and that's why he regularly contributes to open-source products.
 
   > 🐱‍💻 Not very active in Competitive Programming anymore, but if he get time or feeling, he do :)
 
-  > [![Leetcode](https://img.shields.io/badge/Leetcode-2063-orange)](https://leetcode.com/Siddhant_Khare/)&nbsp;&nbsp;&nbsp;[![Codechef](https://cp-logo.vercel.app/codechef/siddhant_k)](https://www.codechef.com/users/siddhant_k)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/siddhant_k)](https://codeforces.com/profile/siddhant_k)&nbsp;&nbsp;&nbsp;[![Atcoder](https://cp-logo.vercel.app/atcoder/Siddhant_Khare)](https://atcoder.jp/users/Siddhant_Khare)
 
 <br>
 
 ### **My Portfolio**:
 
-<a href="https://siddhant-k-code.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+<a href="http://resikeshramachandran.rf.gd/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 
 ### _**My Blogs**_:
 
-<a href="https://medium.com/@siddhantkhare2694"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://dev.to/siddhantkcode"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  /></a>
+<a href="https://medium.com/@resikeshramachandran05"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+
 
 ### 🔭 **Technology Stack**
 
@@ -104,7 +103,6 @@ const Resikesh MR = {
 <summary>More Details</summary>
 <br>
 
-![Metrics](https://metrics.lecoq.io/Siddhant-K-code?template=classic&languages=1&introduction=1&isocalendar=1&people=1&gists=1&followup=1&lines=1&notable=1&achievements=1&activity=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=false&config.timezone=Asia%2FCalcutta)
 
 </details>
   <img src="https://profile-counter.glitch.me/RESIKESH/count.svg" />
