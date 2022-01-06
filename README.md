@@ -1,6 +1,7 @@
 ### Hi there 👋
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+Resikesh+Official+GitHub+AC;Follow+Me+Now)](https://git.io/typing-svg)
-<p align="left"> <a href="https://twitter.com/ResikeshR" target="blank"><a href="https://www.instagram.com/___re_be_li_on___009"<img src="https://img.shields.io/twitter/follow/ResikeshR?logo=twitter&style=for-the-badge" alt="Resikesh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ResikeshR" target="blank"><img src="https://img.shields.io/twitter/follow/ResikeshR?logo=twitter&style=for-the-badge" alt="Resikesh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ResikeshR" target="blank"><img src="https://img.shields.io/twitter/follow/ResikeshR?logo=twitter&style=for-the-badge" alt="Resikesh" /></a> </p>
 <h2 align="center"> ✨ About Me ✨</h2>
 
 ```js
