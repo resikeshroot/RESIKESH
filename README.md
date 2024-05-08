@@ -51,7 +51,7 @@ const Resikesh MR = {
 
 ### **My Portfolio**:
 
-<script src="https://tryhackme.com/badge/1514169" >
+<img src="https://tryhackme-badges.s3.amazonaws.com/Resikeshmr.png" alt="TryHackMe">
  
 </script>
  </script>
