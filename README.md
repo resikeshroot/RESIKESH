@@ -50,14 +50,11 @@ const Resikesh MR = {
 <br>
 
 ### **My Portfolio**:
+
 <script src="https://tryhackme.com/badge/1514169"></script>
 
 
 
-
-<details>
-<summary>More Details</summary>
-<br>
 
 
 </details>
